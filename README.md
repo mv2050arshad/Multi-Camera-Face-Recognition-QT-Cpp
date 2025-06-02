@@ -17,10 +17,10 @@ The **Multi-Camera Face Recognition Application** is a high-performance Qt/QML/C
 
 ---
 
-## 📸 Screenshots
+## 📸 Sample demo
 
 ### Example Interface:
-![Screenshot](path/to/screenshot.png)
+[![Watch the video](https://img.youtube.com/vi/8-IcVcQFZXY/0.jpg)](https://youtu.be/8-IcVcQFZXY)
 
 ---
 
