@@ -1,6 +1,7 @@
 # Multi-Camera-Face-Recognition-QT-Cpp
+ 
+![face](https://github.com/user-attachments/assets/6086a5cd-2ad1-4ffc-9f71-7e7c38e5e8dc)
 
-![Logo or Banner](path/to/logo-or-banner.png)
 
 ## 🚀 Overview
 
@@ -20,7 +21,20 @@ The **Multi-Camera Face Recognition Application** is a high-performance Qt/QML/C
 ## 📸 Sample demo
 
 ### Example Interface:
+
+apply on video 
+
 [![Watch the video](https://img.youtube.com/vi/8-IcVcQFZXY/0.jpg)](https://youtu.be/8-IcVcQFZXY)
+
+apply on image: face verification
+
+[![Watch the video](https://img.youtube.com/vi/5qLIp4CLB-4/0.jpg)](https://youtu.be/5qLIp4CLB-4)
+
+apply on image: face identification
+
+[![Watch the video](https://img.youtube.com/vi/6o9fVMmLpHw/0.jpg)](https://youtu.be/6o9fVMmLpHw)
+
+
 
 ---
 
